@@ -1,0 +1,35 @@
+ID do Funcionário, Nome, cargo, Salário (r$), Tempo de Serviço Prestado (anos), Satisfação (%)
+
+1, Ana Silva, Gerente de Vendas, 4500, 5, 85    
+2, Bruno Costa, Analista de Marketing, 6200, 3, 90    
+3, Carla Souza, Desenvolvedora de Software, 8000, 4, 95    
+4, Daniel Lima, Designer Gráfico, 2900, 2, 80   
+5, Elisa Fernandes, Coordenadora de Projetos, 7200, 6, 88
+6, Felipe Rocha, Especialista em SEO, 6000, 1, 75
+7, Gabriela Martins, Consultora de RH, 6700, 4, 92
+8, Henrique Alves, Engenheiro de Dados, 8500, 5, 89
+9, Isabela Pereira, Analista Financeiro, 6400, 3, 84
+10, João Carvalho, Técnico de Suporte, 5000, 2, 78
+11, Karina Mendes, Gerente de Produto, 7800, 7, 91
+12, Lucas Ferreira, Desenvolvedor Mobile, 8200, 4, 87
+13, Mariana Ribeiro, Especialista em Conteúdo, 6100, 2, 83
+14, Nicolas Santos, Analista de Sistemas, 7000, 3, 86
+15, Olivia Gomes, Coordenadora de Eventos, 6900, 5, 90
+16, Pedro Nunes, Engenheiro de Software, 8800, 6, 94
+17, Quésia Lima, Assistente Administrativo, 2800, 1, 77
+18, Rafael Dias, Cientista de Dados, 9000, 4, 93
+19, Sofia Azevedo, Analista de Mídias Sociais, 6300, 2, 82
+20, Thiago Moreira, Gerente de TI, 9500, 8, 96
+21, Úrsula Pinto, Desenvolvedora Front-end, 7600, 3, 88
+22, Vitor Cardoso, Analista de Segurança da Informação, 8400, 5, 91
+23, Wagner Teixeira, Especialista em Cloud, 8700, 4, 89
+24, Yasmin Rocha, Consultora de Vendas, 1800, 2, 80
+25, Zeca Almeida, Técnico de Redes, 5200, 3, 79
+26, Alice Barros, Gerente de Marketing, 7700, 6, 92
+27, Bruno Lima, Desenvolvedor Back-end, 8100, 4, 85
+28, Camila Santos, Analista de Dados, 7300, 3, 87
+29, Diego Fernandes, Designer UX/UI, 3900, 2, 81
+30, Eva Moreira, Coordenadora de Comunicação, 7100, 5, 90
+31, Fábio Oliveira, Especialista em Redes Sociais, 3200, 1, 76
+32, Giovana Silva, Consultora de Negócios, 6600, 4, 88
+33, Hugo Costa, Engenheiro de Software, 8900, 5,
